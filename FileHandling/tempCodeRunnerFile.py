@@ -1,0 +1,1 @@
+f.write('\n added new line')
