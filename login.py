@@ -25,12 +25,8 @@ def signUp():
                     print('- At least one digit between 0 - 9')
                 if not has_special:
                     print('- At least one of the special characters (@, #, &, $)')
-
     print('Account successfully created!')
-
 signUp()
-
-
 def logIn(username, password):
     pass
 
