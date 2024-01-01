@@ -27,7 +27,6 @@ def destination():
             break
         else:
             print('Enter a valid floor')
-
     return floor
 
 def operate(user_floor):
