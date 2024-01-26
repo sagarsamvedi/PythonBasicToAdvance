@@ -1,6 +1,5 @@
 import time
 
-
 current_floor = 0
 
 def elevate(user_floor):
