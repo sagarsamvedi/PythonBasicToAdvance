@@ -1,3 +1,4 @@
+
 def signUp():
     username = input('Enter new username:   ')
     
