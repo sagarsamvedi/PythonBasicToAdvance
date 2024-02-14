@@ -2,7 +2,6 @@ import time
 
 current_floor = 0
 
-
 def elevate(user_floor):
     global current_floor
     while user_floor != current_floor: 
