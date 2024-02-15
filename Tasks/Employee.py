@@ -1,4 +1,5 @@
 from datetime import date
+
 class Employee:
     def __init__(self, name, salary, company_name,date_of_joining):
         self.name = name
